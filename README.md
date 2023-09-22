@@ -20,13 +20,12 @@ This project showcases an Android application that seamlessly integrates OpenAI'
 
 - [@Pratyaksh Saxena](https://github.com/pratyakshhhh)
 
+
 ## Tech Stack
 
-Java 
+- Java 
 
-Kotlin
-
-
+- Kotlin
 
 
 ## Features
@@ -35,7 +34,6 @@ Kotlin
 - **User-Friendly Interface:** The app offers a simple and intuitive user interface, making interactions seamless and enjoyable.
 - **Versatile Applications:** From answering questions to providing suggestions, the app can assist users in various scenarios.
 - **Hackathon Winning Project:** ChatGpt Android App emerged as the winner of the "Best Project" award in the hackathon.
-
 
 
 ## How to Use
@@ -84,30 +82,12 @@ Kotlin
 ```bash
   https://developer.android.com/studio
 ```
-
-
-
     
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/uc?id=1NsJFrg3g46S0eiqrSmfotjYTwPzht4ng)
+![App Screenshot](https://drive.google.com/uc?id=1NsJFrg3g46S0eiqrSmfotjYTwPzht4ng) ![App Screenshot](https://drive.google.com/uc?id=1f7ImTAGbyEpr-4DadH_iW6uCY_1moSrB) ![App Screenshot](https://drive.google.com/uc?id=1yPZIvtX0or3V4vD0NiIf4tnfsuMYMlnC) 
 
-
-![App Screenshot](https://drive.google.com/uc?id=1f7ImTAGbyEpr-4DadH_iW6uCY_1moSrB)
-
-
-![App Screenshot](https://drive.google.com/uc?id=1yPZIvtX0or3V4vD0NiIf4tnfsuMYMlnC)
-
-
-![App Screenshot](https://drive.google.com/uc?id=1skVOupg3CwVWPbT3EzLHEdR3Wn8Kw1ZX)
-
-
-![App Screenshot](https://drive.google.com/uc?id=1_S5HK_7Cm-NAMh_hG2tL8-t7WJdsyhBa)
-
-
-![App Screenshot](https://drive.google.com/uc?id=1jDYiLrISQlnmdbsdCW-cmtx3EdjzCH_6)
-
-
+![App Screenshot](https://drive.google.com/uc?id=1skVOupg3CwVWPbT3EzLHEdR3Wn8Kw1ZX) ![App Screenshot](https://drive.google.com/uc?id=1_S5HK_7Cm-NAMh_hG2tL8-t7WJdsyhBa) ![App Screenshot](https://drive.google.com/uc?id=1jDYiLrISQlnmdbsdCW-cmtx3EdjzCH_6)
 
 
 ## Future Enhancements
