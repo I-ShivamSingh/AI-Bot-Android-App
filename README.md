@@ -96,7 +96,3 @@ This project showcases an Android application that seamlessly integrates OpenAI'
 
 - Integration with additional AI models for enhanced capabilities.
 - User Login feature
-
-## Acknowledgements
-
-We would like to express our gratitude to the organizers of the "Code for Life: Hackathon for everyday solutions" for providing us with the opportunity to develop and showcase our project. We also extend our thanks to OpenAI for their GPT-3.5 model, which powers the intelligent conversations in our app.
